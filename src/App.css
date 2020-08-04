@@ -14,7 +14,7 @@ section{
   min-height: 400px;
 }
 .nav-link:hover{
-  color: orange;
+  color: #ffa500;
 }
 .nav-center{
   max-width: 1170px;
@@ -205,16 +205,26 @@ section{
 }
 
 .Fondtemoin{
-  padding-top: 60px;
   background-color: hsl(211, 98%, 51%, 0.9);
-  min-height: 400px;
+  max-height: 500px;
   
 }
 
 /* FAQs */
 
+.faqs .faq-question{
+  background-color: rgba(0, 0, 0, 0.2);
+  padding-bottom: 10px;
+}
 
 
+.faq{
+  margin-bottom: 15px;
+}
+
+.faqs{
+  margin-left: 20px;
+}
 .faqs .faq {
 	padding: 15px;
 	background-color: #FFF;
@@ -224,7 +234,6 @@ section{
 
 .faqs .faq .faq-question {
 	position: relative;
-	font-size: 20px;
 	padding-right: 30px;
 
 	transition: all 0.4s ease;
@@ -255,7 +264,9 @@ section{
 }
 
 .faqs .faq.open .faq-question {
-	margin-bottom: 25px;
+  margin-bottom: 25px;
+  background-color: #007bff;
+  color: #FFF;
 }
 
 .faqs .faq.open .faq-question::after {
@@ -265,4 +276,28 @@ section{
 .faqs .faq.open .faq-answer {
 	max-height: 1000px;
 	opacity: 1;
+}
+
+/* TEMOIGNAGE */
+
+.taille{
+  max-width: 300px;
+  min-height: 250px;
+  margin-top: -60px;
+}
+
+.mycaroussel{
+  padding-top: 80px;
+}
+
+.titretemoin{
+  color: #ffa500;
+  font-weight: bold;
+  margin-top: 10px;
+}
+
+/* HELP */
+
+.fondhelp{
+  padding-top: 30px;
 }

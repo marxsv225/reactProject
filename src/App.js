@@ -6,6 +6,7 @@ import News from "./components/News";
 import Services from './components/Services';
 import MissionFaq from './components/MissionFaq';
 import Temoignage from './components/Temoignage';
+import Help from "./components/Help";
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Services />
       <MissionFaq />
       <Temoignage />
+      <Help />
       <div className="">
         Merci a vous !
       </div>
