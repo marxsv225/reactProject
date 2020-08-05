@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "/reactProject/static/css/main.0b0c8b4a.chunk.css",
-    "main.js": "/reactProject/static/js/main.80109099.chunk.js",
-    "main.js.map": "/reactProject/static/js/main.80109099.chunk.js.map",
+    "main.css": "/reactProject/static/css/main.c509a3d3.chunk.css",
+    "main.js": "/reactProject/static/js/main.e99fe6b0.chunk.js",
+    "main.js.map": "/reactProject/static/js/main.e99fe6b0.chunk.js.map",
     "runtime-main.js": "/reactProject/static/js/runtime-main.a91a0920.js",
     "runtime-main.js.map": "/reactProject/static/js/runtime-main.a91a0920.js.map",
     "static/css/2.e6c921eb.chunk.css": "/reactProject/static/css/2.e6c921eb.chunk.css",
-    "static/js/2.ded6e0e6.chunk.js": "/reactProject/static/js/2.ded6e0e6.chunk.js",
-    "static/js/2.ded6e0e6.chunk.js.map": "/reactProject/static/js/2.ded6e0e6.chunk.js.map",
+    "static/js/2.ef55812e.chunk.js": "/reactProject/static/js/2.ef55812e.chunk.js",
+    "static/js/2.ef55812e.chunk.js.map": "/reactProject/static/js/2.ef55812e.chunk.js.map",
     "index.html": "/reactProject/index.html",
-    "precache-manifest.ec37c644141bc8b4d288ec13a159efea.js": "/reactProject/precache-manifest.ec37c644141bc8b4d288ec13a159efea.js",
+    "precache-manifest.f034d42095f6136603e625ba4dcdb4f9.js": "/reactProject/precache-manifest.f034d42095f6136603e625ba4dcdb4f9.js",
     "service-worker.js": "/reactProject/service-worker.js",
     "static/css/2.e6c921eb.chunk.css.map": "/reactProject/static/css/2.e6c921eb.chunk.css.map",
-    "static/css/main.0b0c8b4a.chunk.css.map": "/reactProject/static/css/main.0b0c8b4a.chunk.css.map",
-    "static/js/2.ded6e0e6.chunk.js.LICENSE.txt": "/reactProject/static/js/2.ded6e0e6.chunk.js.LICENSE.txt",
+    "static/css/main.c509a3d3.chunk.css.map": "/reactProject/static/css/main.c509a3d3.chunk.css.map",
+    "static/js/2.ef55812e.chunk.js.LICENSE.txt": "/reactProject/static/js/2.ef55812e.chunk.js.LICENSE.txt",
     "static/media/App.css": "/reactProject/static/media/bgnew.56b7eaa7.PNG",
     "static/media/mission.jpg": "/reactProject/static/media/mission.3d24fec8.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.a91a0920.js",
     "static/css/2.e6c921eb.chunk.css",
-    "static/js/2.ded6e0e6.chunk.js",
-    "static/css/main.0b0c8b4a.chunk.css",
-    "static/js/main.80109099.chunk.js"
+    "static/js/2.ef55812e.chunk.js",
+    "static/css/main.c509a3d3.chunk.css",
+    "static/js/main.e99fe6b0.chunk.js"
   ]
 }
