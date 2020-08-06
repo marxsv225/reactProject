@@ -14,16 +14,20 @@ export default class Help extends Component {
                     <div className="row">
                         <div className="col-md-2"></div>
                         <div className="col-md-8">
+                            <p className="intro">
+                                cette image sans plus attendre dans le cadre d’un essai gratuit.
+                                En outre, accédez
+                            </p>
                             <Form>
                                 <Form.Row>
                                     <Col xs={12} md={5}>
-                                        <Form.Control placeholder="City" />
+                                        <Form.Control placeholder="Name here" />
                                     </Col>
                                     <Col xs={12} md={5}>
-                                        <Form.Control placeholder="State" />
+                                        <Form.Control placeholder="Email here" />
                                     </Col>
                                     <Col xs={12} md={2}>
-                                        <Button type="submit" className="mb-2">
+                                        <Button type="submit" className="bouton-orange">
                                             Submit
                                         </Button>
                                     </Col>

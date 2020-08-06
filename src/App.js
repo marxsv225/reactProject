@@ -7,6 +7,8 @@ import Services from './components/Services';
 import MissionFaq from './components/MissionFaq';
 import Temoignage from './components/Temoignage';
 import Help from "./components/Help";
+import Footer from './components/Footer';
+// import {Route, Switch} from "react-router-dom"
 
 
 function App() {
@@ -18,9 +20,7 @@ function App() {
       <MissionFaq />
       <Temoignage />
       <Help />
-      <div className="">
-        Merci a vous !
-      </div>
+      <Footer />
     </div>
   );
 }

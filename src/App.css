@@ -8,7 +8,7 @@
 }
 
 .nav-link{
-  color: #ffffff;
+  color: #FFF;
 }
 section{
   min-height: 400px;
@@ -16,10 +16,11 @@ section{
 .nav-link:hover{
   color: #ffa500;
 }
-.nav-center{
+.nav-center {
   max-width: 1170px;
   margin: 0 auto;
   display: flex;
+  color: #fff;
 }
 
 .logo{
@@ -29,6 +30,7 @@ section{
 .navbar-brand{
   margin-right: 3rem;
   font-weight: bold;
+  color: #fff;
 }
 
 .icon{
@@ -300,4 +302,46 @@ section{
 
 .fondhelp{
   padding-top: 30px;
+}
+
+.intro{
+  text-align: center;
+  max-width: 300px;
+  display: flex;
+}
+
+/* FOOTER */
+
+.piedpage{
+  background-color: #007bff;
+  padding-top: 30px;
+  color: #FFF;
+}
+
+.enum li{
+  padding-bottom: 50px;
+}
+
+.entete{
+  font-weight: bold;
+}
+
+.ligne{
+  border-top: 1px solid #fff;
+  padding-top: 10px;
+}
+
+.adresse p{
+  color: #ffa500;
+  margin-bottom: 50px;
+}
+
+.texticone{
+  color: #FFF;
+  margin-left: 20px;
+}
+
+.resossocio{
+  margin-left: 40px;
+  font-size: 20px;
 }
