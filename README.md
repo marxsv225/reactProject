@@ -13,7 +13,7 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ### `Screenshort`
-![Entete](/relative/path/to/entete.png?raw=true "Entete de la maquette")
+![Entete](ntete.png)
 
 
 
