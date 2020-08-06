@@ -12,12 +12,8 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
-### 'Screenshort'
-[url=https://postimg.cc/dZk4PzX6][img]https://i.postimg.cc/dZk4PzX6/entete.png[/img][/url] [url=https://postimg.cc/K4w0r8kH][img]https://i.postimg.cc/K4w0r8kH/footer.png[/img][/url]
-
-[url=https://postimg.cc/z3VdggBh][img]https://i.postimg.cc/z3VdggBh/help.png[/img][/url] [url=https://postimg.cc/Xr0xm1gK][img]https://i.postimg.cc/Xr0xm1gK/mission-faq.png[/img][/url]
-
-[url=https://postimg.cc/CRHJgCv3][img]https://i.postimg.cc/CRHJgCv3/news.png[/img][/url] [url=https://postimg.cc/dLC4WcGt][img]https://i.postimg.cc/dLC4WcGt/services.png[/img][/url]
+### `Screenshort`
+<img width="80%" src="scr/images/entete.PNG" alt="Entête de la maquette" title="Entête de la maquette"></img>
 
 
 
