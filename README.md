@@ -13,7 +13,11 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 ### `Screenshort`
-![Entete](ntete.png)
+<p align="center">
+  <img src="entete.PNG" width="350"/>
+  <img src="news.PNG" width="350"/>
+</p>
+
 
 
 
