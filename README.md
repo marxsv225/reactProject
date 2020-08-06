@@ -16,6 +16,11 @@ You will also see any lint errors in the console.
 <p align="center">
   <img src="entete.PNG" width="350"/>
   <img src="news.PNG" width="350"/>
+  <img src="services.PNG" width="350"/>
+  <img src="mission&faq.PNG" width="350"/>
+  <img src="temoignage.PNG" width="350"/>
+  <img src="help.PNG" width="350"/>
+  <img src="footer.PNG" width="350"/>
 </p>
 
 
