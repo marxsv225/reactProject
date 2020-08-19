@@ -49,3 +49,41 @@ export default class Footer extends Component {
         )
     }
 }
+
+/* <nav className="navbar">
+                    <button className="nav-btn" type="button"  onClick={this.handleToggle}>
+                        Menu <FaBars className="nav-icon" />
+                    </button>
+                    <div >
+                        <ul className={this.isOpen? "nav-links show-nav" : "nav-links"}>
+                        <a className="navbar-brand" href="logo">COMPAGNY <span className="logo">LOGO</span></a>
+                            <li className="nav-item">
+                                <a className="nav-link" href="accueil">Home</a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link" href="apropos">About us</a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link" href="porfolio">Portfolio</a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link" href="feature">Features</a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link" href="blog">Blog</a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link" href="shop">Shop</a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link" href="contact">Contact</a>
+                            </li>
+                            <li className="nav-item icon">
+                                <a className="nav-link" href="recherche"><BsSearch /></a>
+                            </li>
+                            <li className="nav-item">
+                                <a className="nav-link" href="panier"><FaShoppingCart /></a>
+                            </li>
+                        </ul>
+                    </div>
+                </nav> */

@@ -8,6 +8,8 @@ import MissionFaq from './components/MissionFaq';
 import Temoignage from './components/Temoignage';
 import Help from "./components/Help";
 import Footer from './components/Footer';
+// import Essai from './components/Essai';
+// import Form from "./components/Form";
 // import {Route, Switch} from "react-router-dom"
 
 
